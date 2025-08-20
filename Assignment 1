@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <hearder>
+    <h1>Vaibhav Chauhan </h1>
+    <h3>Studying at GLA, aiming for success </h3>
+    <img src="Q7kNvwH1w9Cj&_nc_gid=ym-q-m_DiO7Nv4CoLyeqvw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfUuRQvWSpo_8z7jzsYPytHy-Qo1CM8p-AwpmnB2jOPvbw&oe=68A7CC0D&_nc_sid=7a9f4b" alt="Vaibhav Chauhan photo">
+    <ul>
+    </hearder>
+    
+    <h2>Contact</h2>
+    <ul>
+      <li>Email: vaibhav.chauhan_cs24@gla.ac.in </li>
+      <li>Phone: +91 9557397800</li>
+      <li>http://www.linkedin.com/in/</li>
+    </ul>
+    <section>
+    <h2>About Me</h2>
+    <p>
+      I am a first-year <b>Computer Science</b> student who loves <i>Python</i> 
+      and learning <u>HTML & CSS</u>.
+    </p>
+  </section>
+    <section>
+    <h2>Education</h2>
+    <table border="1">
+      <tr>
+        <th>Year</th>
+        <th>Degree</th>
+        <th>Institute</th>
+      </tr>
+      <tr>
+        <td>2024–2028</td>
+        <td>B.Tech CSE</td>
+        <td>gla</td>
+      </tr>
+    </table>
+  </section>
+    <!-- Skills -->
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Python</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Git & GitHub</li>
+    </ul>
+  </section>
+    <!-- Projects -->
+  <section>
+    <h2>Projects</h2>
+    <div>
+      <h4>Random Password Generator</h4>
+      <p>A Python app that creates secure passwords using letters, numbers, and symbols.</p>
+    </div>
+    <div>
+      <h4>Personal Portfolio</h4>
+      <p>Simple portfolio website built with pure HTML.</p>
+    </div>
+  </section>
+    <!-- Hobbies -->
+  <section>
+    <h2>Hobbies</h2>
+    <ul>
+      <li>Reading tech blogs 📚</li>
+      <li>Playing cricket 🏏</li>
+      <li>Listening to music 🎧</li>
+    </ul>
+  </section>
+    <!-- Footer -->
+  <footer>
+    &copy; 2025 Shiv Kumar
+  </footer>
+
+</body>
+</html>
